@@ -15,7 +15,6 @@
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},"order":2,},
     {"id":{"name":"spr_arvores","path":"sprites/spr_arvores/spr_arvores.yy",},"order":1,},
     {"id":{"name":"spr_bloqueado","path":"sprites/spr_bloqueado/spr_bloqueado.yy",},"order":0,},
-    {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},"order":1,},
     {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},"order":3,},
     {"id":{"name":"spr_agua","path":"sprites/spr_agua/spr_agua.yy",},"order":0,},
     {"id":{"name":"spr_off","path":"sprites/spr_off/spr_off.yy",},"order":4,},
