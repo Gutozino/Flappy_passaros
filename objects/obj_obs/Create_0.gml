@@ -1,7 +1,5 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
+//Se movendo para a esquerda
+hspeed = -2
 
 
 

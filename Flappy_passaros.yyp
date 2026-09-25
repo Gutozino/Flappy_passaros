@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"spr_rf_lua","path":"sprites/spr_rf_lua/spr_rf_lua.yy",},"order":7,},
     {"id":{"name":"spr_obstaculo","path":"sprites/spr_obstaculo/spr_obstaculo.yy",},"order":4,},
+    {"id":{"name":"obj_controle_vel","path":"objects/obj_controle_vel/obj_controle_vel.yy",},"order":2,},
     {"id":{"name":"spr_arara_azul","path":"sprites/spr_arara_azul/spr_arara_azul.yy",},"order":1,},
     {"id":{"name":"obj_arara","path":"objects/obj_arara/obj_arara.yy",},"order":0,},
     {"id":{"name":"spr_liberado","path":"sprites/spr_liberado/spr_liberado.yy",},"order":3,},
@@ -24,6 +25,7 @@
     {"id":{"name":"spr_aguia","path":"sprites/spr_aguia/spr_aguia.yy",},"order":0,},
     {"id":{"name":"spr_peixe","path":"sprites/spr_peixe/spr_peixe.yy",},"order":5,},
     {"id":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},"order":2,},
+    {"id":{"name":"spt_1","path":"scripts/spt_1/spt_1.yy",},"order":0,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":0,},
   ],
   "Options": [
