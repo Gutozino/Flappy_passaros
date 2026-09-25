@@ -18,6 +18,7 @@
     {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},"order":3,},
     {"id":{"name":"spr_agua","path":"sprites/spr_agua/spr_agua.yy",},"order":0,},
     {"id":{"name":"spr_off","path":"sprites/spr_off/spr_off.yy",},"order":4,},
+    {"id":{"name":"obj_obs","path":"objects/obj_obs/obj_obs.yy",},"order":1,},
     {"id":{"name":"spr_rf_agua","path":"sprites/spr_rf_agua/spr_rf_agua.yy",},"order":5,},
     {"id":{"name":"rm_loja","path":"rooms/rm_loja/rm_loja.yy",},"order":1,},
     {"id":{"name":"spr_aguia","path":"sprites/spr_aguia/spr_aguia.yy",},"order":0,},
