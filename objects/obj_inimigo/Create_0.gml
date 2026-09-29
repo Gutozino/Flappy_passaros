@@ -11,7 +11,7 @@ hspeed = -3
 image_xscale = - 1
 
 //Començando no frame inicial
-image_speed = 0
+image_speed = .2
 
 
 
