@@ -10,7 +10,7 @@ hspeed = -3
 //Fazendo meu sprite, se direcionar para a esquerda
 image_xscale = - 1
 
-//Començando no frame inicial
+//Alterando a velocidade da animação
 image_speed = .2
 
 

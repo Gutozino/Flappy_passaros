@@ -4,6 +4,9 @@ global.game_over = false
 //Função de perder
 function perdi_jogo()
 {
+		//Se eu perdi, eu não posso perder mais
+		if(global.game_over == true) exit
+		
 		//Avisando que perdi no jogo
 		global.game_over = true
 
