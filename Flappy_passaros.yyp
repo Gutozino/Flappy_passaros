@@ -26,6 +26,7 @@
     {"id":{"name":"spr_peixe","path":"sprites/spr_peixe/spr_peixe.yy",},"order":5,},
     {"id":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},"order":2,},
     {"id":{"name":"spt_1","path":"scripts/spt_1/spt_1.yy",},"order":0,},
+    {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},"order":3,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":0,},
   ],
   "Options": [
