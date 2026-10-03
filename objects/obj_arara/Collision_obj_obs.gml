@@ -1,4 +1,4 @@
-//Criando meu efeito de perca de jogo
+//Puxando meu efeito de perca de jogo
 perdi_jogo()
 
 
