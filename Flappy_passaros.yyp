@@ -5,7 +5,7 @@
   "resources": [
     {"id":{"name":"spr_rf_lua","path":"sprites/spr_rf_lua/spr_rf_lua.yy",},"order":7,},
     {"id":{"name":"spr_obstaculo","path":"sprites/spr_obstaculo/spr_obstaculo.yy",},"order":4,},
-    {"id":{"name":"obj_controle_vel","path":"objects/obj_controle_vel/obj_controle_vel.yy",},"order":2,},
+    {"id":{"name":"obj_criador","path":"objects/obj_criador/obj_criador.yy",},"order":2,},
     {"id":{"name":"spr_arara_azul","path":"sprites/spr_arara_azul/spr_arara_azul.yy",},"order":1,},
     {"id":{"name":"obj_arara","path":"objects/obj_arara/obj_arara.yy",},"order":0,},
     {"id":{"name":"spr_liberado","path":"sprites/spr_liberado/spr_liberado.yy",},"order":3,},
@@ -17,6 +17,7 @@
     {"id":{"name":"spr_arvores","path":"sprites/spr_arvores/spr_arvores.yy",},"order":1,},
     {"id":{"name":"spr_bloqueado","path":"sprites/spr_bloqueado/spr_bloqueado.yy",},"order":0,},
     {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},"order":3,},
+    {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},"order":0,},
     {"id":{"name":"spr_agua","path":"sprites/spr_agua/spr_agua.yy",},"order":0,},
     {"id":{"name":"spr_off","path":"sprites/spr_off/spr_off.yy",},"order":4,},
     {"id":{"name":"obj_obs","path":"objects/obj_obs/obj_obs.yy",},"order":1,},

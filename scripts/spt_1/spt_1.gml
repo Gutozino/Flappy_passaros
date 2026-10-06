@@ -1,6 +1,9 @@
 //Variável global game over
 global.game_over = false
 
+//Variável de pontos
+global.pontos = 0
+
 //Função de perder
 function perdi_jogo()
 {

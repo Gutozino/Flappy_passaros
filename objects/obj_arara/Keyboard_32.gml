@@ -18,8 +18,4 @@ image_speed = 1
 image_index = 1
 }
 
-if(y > room_height + 32)
-{
-	game_restart()	
-}
 

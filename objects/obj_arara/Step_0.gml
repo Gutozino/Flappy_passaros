@@ -2,8 +2,11 @@
 if(global.game_over == true)
 {
 	
-//Girando de 2 em 2
-image_angle += 2;
+		//Girando de 2 em 2
+		image_angle += 2;
+
+		//Vou resetar minha pontuação
+		global.pontos = 0
 }
 else // Eu ainda não perdi o jogo
 {
@@ -14,6 +17,11 @@ else // Eu ainda não perdi o jogo
 		}
 		
 }
+
+
+
+
+
 
 
 
