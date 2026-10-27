@@ -4,6 +4,9 @@ global.game_over = false
 //Variável de pontos
 global.pontos = 0
 
+//Variável level
+global.level = 1
+
 //Função de perder
 function perdi_jogo()
 {
