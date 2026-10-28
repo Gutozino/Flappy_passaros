@@ -18,4 +18,8 @@ if(global.game_over == true){
 	global.level = 1	
 }
 
-show_debug_message(global.level)
+//Aumentando a velocidade das arvores, 
+//conforme meu level aumente
+layer_hspeed("bg_arvores", - global.level);
+layer_hspeed("bg_rf_arvores", - global.level);
+

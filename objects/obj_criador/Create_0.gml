@@ -8,7 +8,7 @@ alarm[1] = game_get_speed(gamespeed_fps)
 alarm[2] = game_get_speed(gamespeed_fps)
 
 //Chamando meu alarme 3 daqui 1 segundo
-alarm[3] = game_get_speed(gamespeed_fps)
+alarm[3] = game_get_speed(gamespeed_fps) * 10;
 
 //Lista de pontos para subir de level
 global.lista_pontos = [10, 25, 50, 80, 120, 180, 250, 350, 500];

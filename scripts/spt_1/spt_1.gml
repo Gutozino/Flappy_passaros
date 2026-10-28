@@ -7,6 +7,9 @@ global.pontos = 0
 //Variável level
 global.level = 1
 
+//Pontos de coletável
+global.coletavel_pt = 0
+
 //Função de perder
 function perdi_jogo()
 {
